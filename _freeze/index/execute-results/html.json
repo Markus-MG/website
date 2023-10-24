@@ -1,8 +1,10 @@
 {
-  "hash": "2b27980fe6e20a03c162a5959e56210d",
+  "hash": "6a8e9e084140026ea0d1f55711a499b7",
   "result": {
-    "markdown": "---\ntitle: \"website-template\"\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"About\"\nsubtitle: \"Markus Geray\"\nimage: Markus_Geray.jpg\nabout: \n  template: jolla\nformat: \n  html: \n    toc: false\n\n---\n\n\n## Heading 1\n\n## Heading 2\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

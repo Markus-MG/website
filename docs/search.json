@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website-template",
+    "title": "Markus Geray",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Markus Geray is a PhD candidate at the Center for Security Studies (CSS) at ETH Zurich. In his research, Markus studies how roadblocks structure the relationships between armed actors and the local population in fragmented conflicts."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Markus Geray",
+    "section": "Education",
+    "text": "Education\nETH Zurich | Zurich, Swtzerland\nPhD Political Science | January 2021 - present\nUniversity of Konstanz | Konstanz, Germany\nMA Politics and Public Administration (Specialisations: Research Methods; International Administration and Conflict Management) | October 2016 - May 2019\nUniversity of Konstanz | Konstanz, Germany\nBA Politics and Public Administration | October 2012 - September 2016"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Markus Geray",
+    "section": "Experience",
+    "text": "Experience\nGerman Development Institute | External Researcher | September - December 2020\nInternational Peace Information Service (IPIS) | GIS Intern | September - December 2019\nUnited Nations High Commissioner for Refugees (UNHCR) | Intern | April - June 2019\nState Agency for Civic Education Baden-Württemberg | Peer Educator | September 2015 - July 2017"
   }
 ]
