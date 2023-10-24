@@ -1,0 +1,15 @@
+---
+title: Authority Formation in Fragmented Conflicts
+subtitle: The Central Role of Roadblock-induced Interaction
+description: | 
+  PhD project 
+# This is a template from which the YAML metadata can be copied for a new blog post.
+author: "Markus Geray"
+date: today
+draft: false # only goes online if false
+bibliography: "../../Markus-MG.bib"   # ../ = one folder up in the hierarchy
+---
+
+## Abstract
+
+The importance of civilian-combatant relations is well-established [@arjona2016rebelocracy]. Yet, we know little about how they are formed in fragmented conflicts, which are marked by a multitude of armed actors having overlapping control instead of exclusive territorial control. I argue that in such volatile contexts, political authority -- a relationship of legitimate power [@agnew2005sovereignty] -- is mainly formed through tangible interactions rather than through abstract institutionalised processes or service provision. Roadblocks are a central feature of this process. Their omnipresence in conflicts as well as their spatiotemporal and functional flexibility make them ideally suited to provide these interactions at scale [@schouten2022roadblock].

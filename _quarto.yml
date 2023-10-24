@@ -4,10 +4,13 @@ project:
 
 website:
   title: "Markus Geray"
+  site-url: "https://markus-mg.github.io/website/"
   navbar:
     left:
       - href: index.qmd
         text: About
+      - href: posts/   # automtaically picks the index.qmd file in the posts folder
+        text: Blog
 
 format:
   html:
