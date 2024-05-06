@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Markus Geray"
-  #site-url: "https://markus-mg.github.io/website/"
+  site-url: "https://markus-mg.github.io/website/"
   navbar:
     left:
       - href: index.qmd
